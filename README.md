@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0704-binary-search](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
