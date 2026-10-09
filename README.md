@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0704-binary-search](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityasingh526272/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
